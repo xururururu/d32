@@ -1,0 +1,44 @@
+id,value,color
+Info,
+Info.Discription,
+Info.Discription.Arts and Humanities,32,#F6854D
+Info.Discription.Education,47,#59666C
+Info.Discription.Health,46,#E54F24
+Info.Discription.Human Services,39,#617CBE
+Info.Discription.Society Benefit,84,#D6BA33
+Info.Discription.Religion,15,#00A0D2
+Info.History,
+Info.History.Arts and Humanities,4,#F6854D
+Info.History.Education,16,#59666C
+Info.History.Health,10,#E54F24
+Info.History.Human Services,11,#617CBE
+Info.History.Society Benefit,18,#D6BA33
+Info.History.Religion,1,#00A0D2
+Info.Mission Statement,
+Info.Mission Statement.Arts and Humanities,11,#F6854D
+Info.Mission Statement.Education,23,#59666C
+Info.Mission Statement.Health,19,#E54F24
+Info.Mission Statement.Human Services,16,#617CBE
+Info.Mission Statement.Society Benefit,44,#D6BA33
+Info.Mission Statement.Religion,6,#00A0D2
+Info.URL,
+Info.URL.Arts and Humanities,27,#F6854D
+Info.URL.Education,43,#59666C
+Info.URL.Health,41,#E54F24
+Info.URL.Human Services,28,#617CBE
+Info.URL.Society Benefit,74,#D6BA33
+Info.URL.Religion,11,#00A0D2
+Info.Logo,
+Info.Logo.Arts and Humanities,28,#F6854D
+Info.Logo.Education,33,#59666C
+Info.Logo.Health,31,#E54F24
+Info.Logo.Human Services,26,#617CBE
+Info.Logo.Society Benefit,68,#D6BA33
+Info.Logo.Religion,8,#00A0D2
+Info.Administrators listed,
+Info.Administrators listed.Arts and Humanities,34,#F6854D
+Info.Administrators listed.Education,49,#59666C
+Info.Administrators listed.Health,45,#E54F24
+Info.Administrators listed.Human Services,38,#617CBE
+Info.Administrators listed.Society Benefit,86,#D6BA33
+Info.Administrators listed.Religion,16,#00A0D2
